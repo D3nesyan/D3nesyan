@@ -6,6 +6,9 @@
  - Email: a1063021545@gmail.com
  - Telegram: [@Ratoriku](https://t.me/Ratoriku)
 
+## ☕ Buy me a cup of coffee
+ - [爱发电](https://afdian.net/@Ratoriku)
+
 <!--
 **Ratoriku/Ratoriku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
