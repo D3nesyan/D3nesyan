@@ -6,6 +6,10 @@
  - Email: a1063021545@gmail.com
  - Telegram: [@Ratoriku](https://t.me/Ratoriku)
 
+## 🔭 What I’m doing
+ - Maintaining ArrowOS for Redmi Note 7 (lavender)
+ - Studying as a Kokosei
+
 ## ☕ Buy me a cup of coffee
  - [爱发电](https://afdian.net/@Ratoriku)
 
