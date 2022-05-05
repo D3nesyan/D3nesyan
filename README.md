@@ -7,11 +7,8 @@
  - Telegram: [@Ratoriku](https://t.me/Ratoriku)
 
 ## 🔭 What I’m doing
- - Maintaining ArrowOS for Redmi Note 7 (lavender)
- - Studying as a student
-
-## ☕ Buy me a cup of coffee
- - [爱发电](https://afdian.net/@Ratoriku)
+ - Contributing to ArrowOS
+ - Struggling for College Entrance Examination
 
 <!--
 **Ratoriku/Ratoriku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
