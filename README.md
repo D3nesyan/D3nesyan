@@ -4,7 +4,7 @@
 
 ## 📫 How to reach me:
  - Email: a1063021545@gmail.com
- - Telegram: [@Ratoriku](https://t.me/Ratoriku)
+ - Telegram: [@d3nesyan](https://t.me/d3nesyan)
 
 ## 🔭 What I’m doing
  - Contributing to ArrowOS
