@@ -3,10 +3,12 @@
 [![D3nesyan github stats](https://github-readme-stats.vercel.app/api?username=d3nesyan)](https://github.com/D3nesyan)
 
 ## 📫 How to reach me:
- - Email: a1063021545@gmail.com
- - Telegram: [@d3nesyan](https://t.me/d3nesyan)
+ - [![Email](https://img.shields.io/badge/Email-a1063021545%40gmail.com-red)](a1063021545@gmail.com)
+ - [![Telegram](https://img.shields.io/badge/Telegram-%40d3nesyan-blue)](https://t.me/d3nesyan)
 
 ## 🔭 What I’m doing
+ - Producing trash code
+ - Student learning Artifical Intelligence at JMU
  - Contributing to ArrowOS
 
 <!--
