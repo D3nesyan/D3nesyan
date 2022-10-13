@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Ratoriku github stats](https://github-readme-stats.vercel.app/api?username=ratoriku)](https://github.com/Ratoriku)
+[![D3nesyan github stats](https://github-readme-stats.vercel.app/api?username=d3nesyan)](https://github.com/D3nesyan)
 
 ## 📫 How to reach me:
  - Email: a1063021545@gmail.com
@@ -10,7 +10,7 @@
  - Contributing to ArrowOS
 
 <!--
-**Ratoriku/Ratoriku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**D3nesyan/D3nesyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
