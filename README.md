@@ -8,7 +8,7 @@
 
 ## 🔭 What I’m doing
  - Producing trash code
- - Student learning Artifical Intelligence at JMU
+ - Learning Artifical Intelligence
  - Contributing to ArrowOS
 
 <!--
