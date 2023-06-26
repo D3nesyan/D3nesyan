@@ -1,15 +1,22 @@
-## Hi there 👋
+## Hi there
 
-[![D3nesyan github stats](https://github-readme-stats.vercel.app/api?username=d3nesyan)](https://github.com/D3nesyan)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=d3nesyan&include_all_commits=true&show_icons=true&hide_title=true&hide_border=false" />
 
-## 📫 How to reach me:
- - [![Email](https://img.shields.io/badge/Email-a1063021545%40gmail.com-red)](a1063021545@gmail.com)
- - [![Telegram](https://img.shields.io/badge/Telegram-%40d3nesyan-blue)](https://t.me/d3nesyan)
+ - en_US & zh_CN
+ - University Student
 
-## 🔭 What I’m doing
+## Working Environment
+![Windows](https://img.shields.io/badge/Windows-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d1?style=flat-square&logo=archlinux&logoColor=ffffff)
+![Android](https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=fff)
+
+## How to reach me:
+[![Email](https://img.shields.io/badge/Email-d3nesyan%40jmu.edu.cn-red)](d3nesyan@jmu.edu.cn)
+[![Telegram](https://img.shields.io/badge/Telegram-%40d3nesyan-blue)](https://t.me/d3nesyan)
+
+## What I’m doing
  - Producing trash code
- - Learning Artifical Intelligence
- - Contributing to ArrowOS
+ - Busy for exams
 
 <!--
 **D3nesyan/D3nesyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
