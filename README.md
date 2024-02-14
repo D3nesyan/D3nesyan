@@ -8,6 +8,7 @@
 ## Working Environment
 ![Windows](https://img.shields.io/badge/Windows-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d1?style=flat-square&logo=archlinux&logoColor=ffffff)
+![iOS](https://img.shields.io/badge/iOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)
 ![Android](https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=fff)
 
 ## How to reach me:
