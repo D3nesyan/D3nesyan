@@ -3,7 +3,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=d3nesyan&include_all_commits=true&show_icons=true&hide_title=true&hide_border=false" />
 
  - en_US & zh_CN
- - University Student
 
 ## Working Environments
 ![Windows](https://img.shields.io/badge/Windows-00adef?style=flat-square&logo=windows&logoColor=ffffff)
@@ -17,8 +16,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%40d3nesyan-blue)](https://t.me/d3nesyan)
 
 ## What I’m doing
- - Producing trash code
- - Busy for exams
+ - Ded asf
 
 <!--
 **D3nesyan/D3nesyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
