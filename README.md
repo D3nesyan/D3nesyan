@@ -5,9 +5,9 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Manrope&weight=500&size=20&duration=4200&pause=1600&color=FFFFFF&center=true&vCenter=true&width=460&height=32&lines=Looking+for+jobs;Wanna+go+postgraduate" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Manrope&weight=500&size=20&duration=4200&pause=1600&color=111111&center=true&vCenter=true&width=460&height=32&lines=Looking+for+jobs;Wanna+go+postgraduate" />
-  <img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=500&size=20&duration=4200&pause=1600&color=111111&center=true&vCenter=true&width=460&height=32&lines=Looking+for+jobs;Wanna+go+postgraduate" alt="Typing intro" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Manrope&weight=500&size=20&duration=4200&pause=1600&color=FFFFFF&center=true&vCenter=true&width=460&height=32&lines=Looking+for+opportunities;Trying+to+build+a+better+life" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Manrope&weight=500&size=20&duration=4200&pause=1600&color=111111&center=true&vCenter=true&width=460&height=32&lines=Looking+for+opportunities;Trying+to+build+a+better+life" />
+  <img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=500&size=20&duration=4200&pause=1600&color=111111&center=true&vCenter=true&width=460&height=32&lines=Looking+for+opportunities;Trying+to+build+a+better+life" alt="Typing intro" />
 </picture>
 
 </div>
