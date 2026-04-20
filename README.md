@@ -49,7 +49,7 @@ English / Chinese.
 
 ### Contact
 
-<a href="mailto:d3nesyan@jmu.edu.cn">Email</a>
+<a href="mailto:a1063021545@gmail.com">Email</a>
 <br />
 <a href="https://t.me/d3nesyan">Telegram</a>
 
